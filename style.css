@@ -1,3 +1,9 @@
+body{
+    background-image: url(./img/törihtkp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 h1 {
     color: rgb(207, 236, 184);
     text-align: center;
